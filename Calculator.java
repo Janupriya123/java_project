@@ -5,7 +5,7 @@ public class Calculator {
         Scanner sc = new Scanner(System.in); 
      
         System.out.println("Simple Java Calculator"); 
-        System.out.print("Enter first number: ");
+        System.out.print("Enter first number: "); 
         double num1 = sc.nextDouble();
 
         System.out.print("Enter an operator (+, -, *, /): ");
